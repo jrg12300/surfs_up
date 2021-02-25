@@ -10,9 +10,11 @@ Results:
   insert both pngs here.
   
   December:
+  
   ![december](https://github.com/jrg12300/surfs_up/blob/main/Dec_Summary_Stats.png)
   
   June:
+  
   ![june](https://github.com/jrg12300/surfs_up/blob/main/June_Summary_Stats.png)
   
   2) Oahu does not get so hot that no one would want to be outside. The max temperature during June was 85 degrees.
